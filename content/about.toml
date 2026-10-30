@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Multimodal Large Language Models",
+  "Generative AI",
+  "AI Agents"
 ]
 
 [[sections]]
@@ -21,9 +21,15 @@ title = "Selected Publications"
 filter = "selected"
 limit = 5
 
+# 用 markdown 方式引入项目，完美兼容
+[[sections]]
+id = "projects"
+type = "markdown"
+source = "projects.md"
+title = "Featured Projects"
+
 [[sections]]
 id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
-

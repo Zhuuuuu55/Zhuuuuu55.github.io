@@ -1,5 +1,3 @@
-我目前是某某大学理学院博士生，导师是 [导师甲教授](https://example.com) 和 [导师乙博士](https://example.com)。
+我是华中科技大学智能科学与技术专业的本科生。目前，我在华中科技大学 [MAIR 实验室](https://mair-lab-hust.github.io/) 学习，导师是 [马志远](https://ponymzy.github.io/) 副教授。
 
-此前，我在某某大学获得自然科学学士学位（一等荣誉）。
-
-我的研究主要关注自然哲学中的数学原理。
+我的研究主要关注多模态大模型（MLLMs）、AIGC 以及 AI Agent 等内容。

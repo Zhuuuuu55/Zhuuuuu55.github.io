@@ -1,22 +1,51 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "祝天钦"
+description = "华中科技大学本科生。"
+favicon = "/favicon.svg"
+last_updated = "2026年10月30日"
 
 [author]
-name = "刘嘉乐"
-title = "博士生"
-institution = "某某大学"
+name = "祝天钦"
+title = "本科生"
+institution = "华中科技大学"
+avatar = "/bio.jpg"
 
 [social]
-location = "城市，国家"
+# 联系方式（留空或删除对应行即可隐藏）
+
+email = "u202410742@hust.edu.cn"
+location = "中国，武汉"
+location_url = "https://www.hust.edu.cn"
 location_details = [
-  "理科楼 123 室，",
-  "大学路，城市，国家"
+  "华中科技大学,",
+  "湖北省武汉市洪山区珞喻路1037号"
 ]
 
+orcid = "https://orcid.org/0009-0002-8398-9944"
+github = "https://github.com/Zhuuuuu55"
+
+[features]
+# 是否开启点赞功能
+enable_likes = true
+
+# 是否将所有子页面显示在同一页
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+mode = "auto"
+fixed_locale = "en"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
 [[navigation]]
-title = "关于我"
+title = "关于"
 type = "page"
 target = "about"
 href = "/"
@@ -28,22 +57,16 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
+title = "项目"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "projects"
+href = "/projects"
 
 [[navigation]]
-title = "奖项"
+title = "获奖"
 type = "page"
 target = "awards"
 href = "/awards"
-
-[[navigation]]
-title = "服务"
-type = "page"
-target = "services"
-href = "/services"
 
 [[navigation]]
 title = "简历"

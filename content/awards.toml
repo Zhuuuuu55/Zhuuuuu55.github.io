@@ -3,25 +3,19 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "AIC Provincial First Prize"
+subtitle = "AIC Review Committee"
+date = "2026"
+content = "First prize in the AIC competition at the provincial level."
+
+[[items]]
+title = "MCM/ICM Honorable Mention"
+subtitle = "ACM"
+date = "2026"
+content = "Honorable Mention in the Mathematical Contest in Modeling."
+
+[[items]]
+title = "RAICOM Provincial First Prize"
+subtitle = "RAICOM Review Committee"
 date = "2025"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+content = "First prize in the RAICOM competition at the provincial level."
